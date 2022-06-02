@@ -2,7 +2,7 @@
 
 TuffStuff E-commerce website
 
--> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff.git
+-> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff2.1.git
 
 # Used technologies, librairies and packages
 --------------------------
