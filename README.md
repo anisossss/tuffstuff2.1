@@ -1,6 +1,6 @@
 # Project
 
-TuffStuff E-commerce website
+TuffStuff E-commerce website with Admin Panel 
 
 -> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff2.1.git
 
