@@ -30,7 +30,7 @@ TuffStuff E-commerce website
   => npm i ⤵️
 
  4. Run client 
-  => npm start
+  => npm run dev:client
 --------------------------
 # Deployment CI/CD
 
